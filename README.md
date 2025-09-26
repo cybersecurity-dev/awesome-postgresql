@@ -1,3 +1,7 @@
+<p align="center"><a href="https://www.imperva.com/learn/application-security/rootkit/">
+  <img width="20%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Postgresql_logo.svg" /></a>
+</p>
+
 # Awesome [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/PostgreSQL/)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
